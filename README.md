@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/uliba3/LeetSyncHub/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/uliba3/LeetSyncHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
