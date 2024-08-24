@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uliba3/LeetSyncHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
 ## Randomized
 |  |
 | ------- |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
