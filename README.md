@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/uliba3/LeetSyncHub/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/uliba3/LeetSyncHub/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
@@ -84,9 +85,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 | [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/uliba3/LeetSyncHub/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
