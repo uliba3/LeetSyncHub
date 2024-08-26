@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/uliba3/LeetSyncHub/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/uliba3/LeetSyncHub/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -91,5 +93,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/uliba3/LeetSyncHub/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
