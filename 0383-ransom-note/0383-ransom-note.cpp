@@ -1,19 +1,21 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        vector<int> alphabets(26,0);
-        for(int i = 0; i < magazine.size(); i++){
-            alphabets[magazine[i]-'a']++;
-        }
-        for(int i = 0; i < ransomNote.size(); i++){
-            alphabets[ransomNote[i] - 'a']--;
-        }
-        bool res = true;
-        for(int i = 0; i < 26; i++){
-            if(alphabets[i] < 0){
-                res = false;
+        unordered_map<char,int> m;
+        for(int i = 0; i < magazine.length(); i++){
+            if (m.contains(magazine[i])){
+                m[magazine[i]]++;
+            }else{
+                m[magazine[i]] = 1;
             }
         }
-        return res;
+        for(int i = 0; i < ransomNote.length(); i++){
+            if(!m.contains(ransomNote[i])||m[ransomNote[i]]==0){
+                return false;
+            }else{
+                m[ransomNote[i]]--;
+            }
+        }
+        return true;
     }
 };
