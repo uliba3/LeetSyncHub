@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/uliba3/LeetSyncHub/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/uliba3/LeetSyncHub/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/uliba3/LeetSyncHub/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/uliba3/LeetSyncHub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uliba3/LeetSyncHub/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uliba3/LeetSyncHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
