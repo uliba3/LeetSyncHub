@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/uliba3/LeetSyncHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/uliba3/LeetSyncHub/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/uliba3/LeetSyncHub/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/uliba3/LeetSyncHub/tree/master/0125-valid-palindrome) |
@@ -133,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/uliba3/LeetSyncHub/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/uliba3/LeetSyncHub/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
