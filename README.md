@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/uliba3/LeetSyncHub/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/uliba3/LeetSyncHub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/uliba3/LeetSyncHub/tree/master/0205-isomorphic-strings) |
@@ -138,4 +139,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/uliba3/LeetSyncHub/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
