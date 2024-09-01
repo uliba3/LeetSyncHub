@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/uliba3/LeetSyncHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/uliba3/LeetSyncHub/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/uliba3/LeetSyncHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0219-contains-duplicate-ii) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/uliba3/LeetSyncHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/uliba3/LeetSyncHub/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
@@ -141,5 +143,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/uliba3/LeetSyncHub/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/uliba3/LeetSyncHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/uliba3/LeetSyncHub/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
