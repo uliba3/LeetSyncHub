@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/uliba3/LeetSyncHub/tree/master/0222-count-complete-tree-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/uliba3/LeetSyncHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/uliba3/LeetSyncHub/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -221,10 +223,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/uliba3/LeetSyncHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/uliba3/LeetSyncHub/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/uliba3/LeetSyncHub/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
