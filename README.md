@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/uliba3/LeetSyncHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/uliba3/LeetSyncHub/tree/master/0228-summary-ranges) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/uliba3/LeetSyncHub/tree/master/0289-game-of-life) |
 ## Counting
 |  |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/uliba3/LeetSyncHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/uliba3/LeetSyncHub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/uliba3/LeetSyncHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/uliba3/LeetSyncHub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/uliba3/LeetSyncHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -267,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/uliba3/LeetSyncHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/uliba3/LeetSyncHub/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
