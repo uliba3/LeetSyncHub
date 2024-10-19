@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uliba3/LeetSyncHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/uliba3/LeetSyncHub/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/uliba3/LeetSyncHub/tree/master/0289-game-of-life) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/uliba3/LeetSyncHub/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/uliba3/LeetSyncHub/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/uliba3/LeetSyncHub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uliba3/LeetSyncHub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/uliba3/LeetSyncHub/tree/master/0383-ransom-note) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/uliba3/LeetSyncHub/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/uliba3/LeetSyncHub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/uliba3/LeetSyncHub/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/uliba3/LeetSyncHub/tree/master/0945-snakes-and-ladders) |
 ## Counting
@@ -303,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/uliba3/LeetSyncHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
