@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/uliba3/LeetSyncHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/uliba3/LeetSyncHub/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/uliba3/LeetSyncHub/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/uliba3/LeetSyncHub/tree/master/0130-surrounded-regions) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/uliba3/LeetSyncHub/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/uliba3/LeetSyncHub/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/uliba3/LeetSyncHub/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/uliba3/LeetSyncHub/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0151-reverse-words-in-a-string) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/uliba3/LeetSyncHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/uliba3/LeetSyncHub/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/uliba3/LeetSyncHub/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/uliba3/LeetSyncHub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/uliba3/LeetSyncHub/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
@@ -320,5 +323,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/uliba3/LeetSyncHub/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
