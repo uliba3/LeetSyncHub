@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/uliba3/LeetSyncHub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uliba3/LeetSyncHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/uliba3/LeetSyncHub/tree/master/0071-simplify-path) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/uliba3/LeetSyncHub/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uliba3/LeetSyncHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/uliba3/LeetSyncHub/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0052-n-queens-ii) |
