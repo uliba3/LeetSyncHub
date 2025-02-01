@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/uliba3/LeetSyncHub/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/uliba3/LeetSyncHub/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/uliba3/LeetSyncHub/tree/master/0304-range-sum-query-2d-immutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/uliba3/LeetSyncHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0945-snakes-and-ladders](https://github.com/uliba3/LeetSyncHub/tree/master/0945-snakes-and-ladders) |
 | [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
@@ -346,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/uliba3/LeetSyncHub/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/uliba3/LeetSyncHub/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0212-word-search-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/uliba3/LeetSyncHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
