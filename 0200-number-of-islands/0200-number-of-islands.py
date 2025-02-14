@@ -1,25 +1,29 @@
+mi = [1,-1,0,0]
+mj = [0,0,1,-1]
+
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        di = [-1,0,1,0]
-        dj = [0,-1,0,1]
+        # number of islands
+        counter = 0
+        # queue for tracking which grid to check
         q = deque()
-        count = 0
         for i in range(len(grid)):
             for j in range(len(grid[0])):
-                g = grid[i][j]
-                if g == "0":
+                # if grid is water or visited land
+                if grid[i][j] == "0" or grid[i][j] == "2":
                     continue
-                count += 1
-                q.append([i, j])
-                grid[i][j] = "0"
-                while q:
-                    si = q[0][0]
-                    sj = q[0][1]
-                    q.popleft()
-                    for k in range(4):
-                        if si + di[k] < 0 or si + di[k] >= len(grid) or sj + dj[k] < 0 or sj + dj[k] >= len(grid[0]):
-                            continue
-                        if grid[si+di[k]][sj+dj[k]] == "1":
-                            q.append([si+di[k], sj+dj[k]])
-                            grid[si+di[k]][sj+dj[k]] = "0"
-        return count
+                else: # if grid is land
+                    counter += 1
+                    q.append([i, j])
+                    while len(q) > 0:
+                        x, y = q.popleft()
+                        if grid[x][y] == "1":
+                            grid[x][y] = "2"
+                            for k in range(4):
+                                if x + mi[k] < 0 or x + mi[k]>=len(grid) or y + mj[k] < 0 or y + mj[k]>=len(grid[0]):
+                                    continue
+                                if grid[x+mi[k]][y+mj[k]] == "0" or grid[x+mi[k]][y+mj[k]] == "2":
+                                    continue
+                                q.append([x+mi[k], y+mj[k]])        
+        return counter
+        
