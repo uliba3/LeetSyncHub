@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/uliba3/LeetSyncHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0945-snakes-and-ladders](https://github.com/uliba3/LeetSyncHub/tree/master/0945-snakes-and-ladders) |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
 | [2169-simple-bank-system](https://github.com/uliba3/LeetSyncHub/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/uliba3/LeetSyncHub/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uliba3/LeetSyncHub/tree/master/0380-insert-delete-getrandom-o1) |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/uliba3/LeetSyncHub/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/uliba3/LeetSyncHub/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uliba3/LeetSyncHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/uliba3/LeetSyncHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -353,4 +357,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/uliba3/LeetSyncHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
