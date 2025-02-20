@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uliba3/LeetSyncHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/uliba3/LeetSyncHub/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/uliba3/LeetSyncHub/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/uliba3/LeetSyncHub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/uliba3/LeetSyncHub/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/uliba3/LeetSyncHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/uliba3/LeetSyncHub/tree/master/0049-group-anagrams) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/uliba3/LeetSyncHub/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uliba3/LeetSyncHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uliba3/LeetSyncHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/uliba3/LeetSyncHub/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/uliba3/LeetSyncHub/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/uliba3/LeetSyncHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/uliba3/LeetSyncHub/tree/master/0086-partition-list) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/uliba3/LeetSyncHub/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uliba3/LeetSyncHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/uliba3/LeetSyncHub/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uliba3/LeetSyncHub/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/uliba3/LeetSyncHub/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/uliba3/LeetSyncHub/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/uliba3/LeetSyncHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/uliba3/LeetSyncHub/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -366,4 +370,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/uliba3/LeetSyncHub/tree/master/1014-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/uliba3/LeetSyncHub/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
